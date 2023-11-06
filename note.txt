@@ -1,0 +1,8 @@
+python虚拟环境
+安装虚拟环境：python3 -m pip install virtualenv
+构建虚拟环境：vitrualenv test_env
+激活虚拟环境：source test_env/bin/activate
+关闭虚拟环境：deactivate
+
+配置工作环境：
+pip install notebook
