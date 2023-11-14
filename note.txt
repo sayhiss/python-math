@@ -1,3 +1,12 @@
+pip 操作
+pip list 查看安装的包
+指定镜像安装:
+pip install 包名 -i 镜像网址
+
+镜像网站：
+https://pypi.tuna.tsinghua.edu.cn/simple/   # 清华
+https://pypi.mirrors.ustc.edu.cn/simple/ # 中国科学技术大学
+
 python虚拟环境
 安装虚拟环境：python3 -m pip install virtualenv
 构建虚拟环境：vitrualenv test_env
@@ -6,3 +15,10 @@ python虚拟环境
 
 配置工作环境：
 pip install notebook
+
+启动notebook
+python -m notebook
+
+pip在线下载慢，可以在https://pypi.org/使用Motix下载，然后pip install xx.whl
+
+微积分：研究连续变化的数学
