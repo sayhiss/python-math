@@ -15,7 +15,7 @@ python虚拟环境
 
 配置工作环境：
 pip install notebook -i https://pypi.tuna.tsinghua.edu.cn/simple/
-pip install matplotlib -i https://pypi.tuna.tsinghua.edu.cn/simple/
+
 启动notebook
 python -m notebook
 
